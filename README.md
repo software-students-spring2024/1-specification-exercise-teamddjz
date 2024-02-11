@@ -29,6 +29,9 @@ See instructions. Delete this line and place a list of your User Stories here.
 As a student, I want to find events in school/in the city so I can find new communities that I can be a part of. 
 <img width="383" alt="Screenshot 2024-02-11 at 4 54 10 PM" src="https://github.com/software-students-spring2024/1-specification-exercise-teamddjz/assets/79882950/3d64f28e-e6e8-4523-a457-fcc1b8ffa4d1">
 
+As an event organizer, I want to create an event so that more people can know and attend the event.
+![Screen Shot 2024-02-11 at 4 55 50 PM](https://github.com/software-students-spring2024/1-specification-exercise-teamddjz/assets/53539894/66eb96c3-befd-4f35-90de-8606c371ceaa)
+
 
 ## Clickable Prototype
 
