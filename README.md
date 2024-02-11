@@ -26,7 +26,9 @@ See instructions. Delete this line and place a list of your User Stories here.
 
 ## Activity Diagrams
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
+As a student, I want to find events in school/in the city so I can find new communities that I can be a part of. 
+<img width="383" alt="Screenshot 2024-02-11 at 4 54 10 PM" src="https://github.com/software-students-spring2024/1-specification-exercise-teamddjz/assets/79882950/3d64f28e-e6e8-4523-a457-fcc1b8ffa4d1">
+
 
 ## Clickable Prototype
 
