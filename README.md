@@ -20,7 +20,9 @@ See instructions. Delete this line and place your Product Vision Statement here.
 See instructions. Delete this line and place a list of your User Stories here.
 - As a student, I want to find events in school/in the city so I can find new communities that I can be a part of. 
 - As a community leader, I want to share my events so new people can join our community and make connections
-
+* As an event organizer, I want to be able to keep certain users from seeing the event page
+* As an event attendee, I want to be able to share my experience with the event after the fact, and maybe leave a review
+* As an event attendee, I want to have a list of recommended upcoming events for me.
 
 ## Activity Diagrams
 
