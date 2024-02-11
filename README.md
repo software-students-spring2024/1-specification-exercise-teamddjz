@@ -6,6 +6,7 @@ A little exercise to get started with the specification phase of the software de
 
 See instructions. Delete this line and replace with a list of the names of your team members, including links to each one's GitHub profile.
 Damla Onder - https://github.com/damlaonder
+Joyce Xie - https://github.com/joyxe-xie 
 
 ## Stakeholders
 
@@ -13,7 +14,7 @@ See instructions. Delete this line and replace with the name(s) of the stakehold
 
 ## Product Vision Statement
 
-See instructions. Delete this line and place your Product Vision Statement here.
+Finding groups, events, and clubs to form inclusive communities at NYU.
 
 ## User Requirements
 
@@ -23,6 +24,10 @@ See instructions. Delete this line and place a list of your User Stories here.
 * As an event organizer, I want to be able to keep certain users from seeing the event page
 * As an event attendee, I want to be able to share my experience with the event after the fact, and maybe leave a review
 * As an event attendee, I want to have a list of recommended upcoming events for me.
+* As an event organizer, I want to create an event so that more people can know and attend the event.
+* As an event attendee, I want to join a discussion group to connect with other attendees.
+* As an event attendee, I want to see who is coming prior to the event. 
+
 
 ## Activity Diagrams
 
