@@ -11,7 +11,8 @@ An app for NYU college students who are trying to find community in clubs/organi
 
 ## Stakeholders
 
-Stakeholder_1: A NYU  junior 
+Stakeholder_1: A NYU  junior
+ 
 Goal:
 1. Connect with new acquaintances.
 2. Discover individuals who share similar hobbies and interests.
