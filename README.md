@@ -18,6 +18,9 @@ See instructions. Delete this line and place your Product Vision Statement here.
 ## User Requirements
 
 See instructions. Delete this line and place a list of your User Stories here.
+- As a student, I want to find events in school/in the city so I can find new communities that I can be a part of. 
+- As a community leader, I want to share my events so new people can join our community and make connections
+
 
 ## Activity Diagrams
 
