@@ -39,6 +39,10 @@ Finding groups, events, and clubs to form inclusive communities at NYU.
 * As an event organizer, I want to create an event so that more people can know and attend the event.
 * As an event attendee, I want to join a discussion group to connect with other attendees.
 * As an event attendee, I want to see who is coming prior to the event. 
+* As a user, I want to create my own account so that I can use this app.
+* As a user, I want to edit my profile so that I can update my info.
+* As an attendee, I want to search for a certain type of event that I am interested in.
+
 
 
 ## Activity Diagrams
