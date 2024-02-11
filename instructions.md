@@ -51,10 +51,17 @@ For each diagram, place the text of the corresponding user story and an image of
 ## Wireframe diagrams
 
 Create a set of wireframe diagrams representing every screen of the application. Wireframes are black-and-white diagrams that show the general layout of the screen, and the content that appears on each screen, but not the actual colors, images, fonts, or other visual design elements that will be used in the final product.
+https://www.figma.com/file/li8sdTQztQKCihOwaZ5shC/SWE-Proj-%231?type=design&node-id=0%3A1&mode=design&t=hrCjeNv48jSazwj1-1
+
+
+
 
 ## Clickable prototype
 
 Convert the wireframe diagrams into a clickable prototype. These should be complete: every link or button in the prototype should take the user to the next screen in the flow; every place where actual content will go on each screen (i.e. every bit of text, image, or video) should be represented in the wireframe diagrams used in the clickable prototype. Use as little real-looking text as possible to make it obvious what will be written in the text blocks of the final product, while not showing so much that it distracts from the abstract purpose of the wireframe diagrams.
+
+https://www.figma.com/proto/li8sdTQztQKCihOwaZ5shC/SWE-Proj-%231?type=design&node-id=1-3&t=hrCjeNv48jSazwj1-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A3
+
 
 By using the clickable prototype, a non-technical person who is not closely involved with the project should be able to understand what the application is and how it works. Nothing should be left to the imagination.
 
