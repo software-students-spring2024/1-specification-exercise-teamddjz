@@ -1,12 +1,12 @@
-# Specification Phase Exercise
+# Circles
 
-A little exercise to get started with the specification phase of the software development lifecycle. See the [instructions](instructions.md) for more detail.
+An app for NYU college students who are trying to find community in clubs/organizations through similar hobbies and interests. 
 
 ## Team members
 
-See instructions. Delete this line and replace with a list of the names of your team members, including links to each one's GitHub profile.
-Damla Onder - https://github.com/damlaonder
-Joyce Xie - https://github.com/joyxe-xie 
+- Damla Onder - https://github.com/damlaonder
+- Joyce Xie - https://github.com/joyxe-xie
+- 
 
 ## Stakeholders
 
