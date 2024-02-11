@@ -7,6 +7,7 @@ An app for NYU college students who are trying to find community in clubs/organi
 - Damla Onder - https://github.com/damlaonder
 - Joyce Xie - https://github.com/joyxe-xie
 - Daniel Pang - https://github.com/danielpang35
+- Zijie Zhao - https://github.com/ZijieZha0
 
 ## Stakeholders
 
