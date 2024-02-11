@@ -10,7 +10,20 @@ An app for NYU college students who are trying to find community in clubs/organi
 
 ## Stakeholders
 
-See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
+Stakeholder_1: A NYU  junior 
+Goal:
+1. Connect with new acquaintances.
+2. Discover individuals who share similar hobbies and interests.
+3. Explore niche interests that are not commonly encountered, and potentially organize events to cultivate and share those interests within a community.
+4. Provide a platform for individuals who may feel uncomfortable with in-person interactions to engage in meaningful online conversations and make friends.
+5. Identify and attend events that align with personal interests but may not have been previously accessible or known.
+
+Frustrations:
+1. Users may encounter difficulty navigating through a vast array of events to find ones that fit their schedule.
+2. Concerns may arise about the visibility of posted events, and the need for effective promotion to reach potential participants.
+3. Ensuring event attendance and managing cancellations could pose challenges.
+4. Lack of features for facilitating communication and interaction among members, such as discussion forums or group chats for events, may lead to feelings of disconnection within the community they're trying to engage with.
+
 
 ## Product Vision Statement
 
@@ -18,7 +31,6 @@ Finding groups, events, and clubs to form inclusive communities at NYU.
 
 ## User Requirements
 
-See instructions. Delete this line and place a list of your User Stories here.
 - As a student, I want to find events in school/in the city so I can find new communities that I can be a part of. 
 - As a community leader, I want to share my events so new people can join our community and make connections
 * As an event organizer, I want to be able to keep certain users from seeing the event page
